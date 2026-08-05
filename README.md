@@ -14,8 +14,6 @@
 
 - 💬 **Ask me about:** 🌐 HTML • 🎨 CSS • ⚡ JavaScript • 💻 C • 🐍 Python • 🔷 TypeScript • ⚛️ React • 🛣️ React Router • 🟢 Node.js • 🚂 Express.js • 🍃 MongoDB • 🐬 MySQL • ⚡ Redis • 🔐 JWT • 📝 React Hook Form • 🔌 Socket.IO • 🌬️ Tailwind CSS • 🎨 SASS • 🗃️ Redux • ▲ Next.js • 🔥 Firebase • 🎯 Figma • 🎨 Canva • 📊 NumPy • 🐼 Pandas
 
-- 📫 **How to reach me:** **your-email@example.com**
-
 - ⚡ **Current Goal:** To become a skilled Full-Stack MERN Developer by building impactful projects, contributing to open source, and continuously improving my problem-solving skills.
 
 - 🚀 **Open to:** Full-time roles, internships, freelance work, and collaboration on exciting web development projects.
